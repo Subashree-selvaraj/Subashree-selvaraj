@@ -23,5 +23,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subashre-selvaraj&" alt="subashree-selvaraj" /></p>
 
-
-![Snake animation](https://github.com/Subashree-selvaraj/Subashree-selvaraj/blob/output/github-contribution-grid-snake.svg)
