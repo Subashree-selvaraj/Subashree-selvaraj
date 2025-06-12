@@ -2,8 +2,6 @@
 <h3 align="center">A passionate MERN Stack & Web3 developer from India</h3>
 
 
-- 🔭 I’m currently working on [SpendSmart](https://github.com/Subashree-selvaraj/spendsmart.git)
-
 - 🌱 I’m currently learning **Node Js, Solidity, MongoDB,**
 
 - 📫 How to reach me **subashreevjc@gmail.com**
