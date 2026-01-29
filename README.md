@@ -22,6 +22,16 @@
 ## 📈 Contribution Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subashree-selvaraj&theme=github-dark)
 
+## 🧩 Profile Summary
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subashree-selvaraj&theme=github_dark)
+
+## 📂 Repositories Overview
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subashree-selvaraj&theme=github_dark)
+
+
+## 🔥 Commit Activity
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=Subashree-selvaraj&theme=dark)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
