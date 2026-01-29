@@ -18,15 +18,9 @@
 ## 🏅 GitHub Achievements
 ![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subashree-selvaraj&theme=github_dark)
 
+
 ## 📈 Contribution Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subashree-selvaraj&theme=github-dark)
-
-## 📊 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/Subashree-selvaraj)
-
-## 📈 GitHub Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subashree-selvaraj&theme=github-dark)
-
 
 
 ### ✍️ Random Dev Quote
