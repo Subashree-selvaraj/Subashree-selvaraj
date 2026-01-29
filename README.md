@@ -15,8 +15,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Subashree-selvaraj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subashree-selvaraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Subashree-selvaraj&theme=onedark&margin-w=15)
+## 🏅 GitHub Achievements
+![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subashree-selvaraj&theme=github_dark)
+
+## 📈 Contribution Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subashree-selvaraj&theme=github-dark)
+
+## 📊 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/Subashree-selvaraj)
+
+## 📈 GitHub Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subashree-selvaraj&theme=github-dark)
+
 
 
 ### ✍️ Random Dev Quote
