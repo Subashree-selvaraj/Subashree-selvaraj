@@ -1,5 +1,6 @@
-# 💫 About Me
+👋 Hi, I’m Subashree
 
+💫 About Me
 🔭 I’m currently working on  
 • MERN Stack backend projects  
 • REST APIs with Node.js, Express & MongoDB  
@@ -18,7 +19,7 @@
 • Backend performance & security  
 • Deployment & cloud fundamentals  
 
-🌱 I’m currently learning  
+🚀 I’m currently learning  
 • Data Structures & Algorithms (Java)  
 • Node.js, Express.js, MongoDB  
 • Backend testing & API validation  
