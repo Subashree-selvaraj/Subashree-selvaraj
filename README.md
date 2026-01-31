@@ -1,4 +1,9 @@
-👋 Hi, I’m Subashree
+## 👋 Hi, I’m Subashree
+
+Backend-focused developer passionate about building scalable, reliable systems and writing clean, maintainable code. Currently strengthening my foundations in **Data Structures, Algorithms, and Core Computer Science**, while building real-world backend projects using the **MERN stack**.
+
+---
+
 
 💫 About Me
 🔭 I’m currently working on  
