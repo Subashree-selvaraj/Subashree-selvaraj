@@ -1,4 +1,5 @@
-## 👋 Hi, I’m Subashree
+## 👋 Hi, I’m Subashree                                                                         ![](https://komarev.com/ghpvc/?username=Subashree-selvaraj&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 Backend-focused developer passionate about building scalable, reliable systems and writing clean, maintainable code. Currently strengthening my foundations in **Data Structures, Algorithms, and Core Computer Science**, while building real-world backend projects using the **MERN stack**.
 
@@ -66,15 +67,11 @@ Backend-focused developer passionate about building scalable, reliable systems a
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Subashree-selvaraj&theme=dark&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Subashree-selvaraj&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subashree-selvaraj&theme=dark&layout=compact)
 
 ---
+## 🏆 GitHub Achievements
+
+![trophy](https://github-trophies.vercel.app/?username=Subashree-selvaraj)
 
 ## 🧩 GitHub Overview
 
@@ -87,6 +84,10 @@ Backend-focused developer passionate about building scalable, reliable systems a
 ## 📈 Contribution & Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subashree-selvaraj&theme=github-dark)
+
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/subashree_selvaraj?theme=dark&font=Nunito&ext=heatmap)
 
 
 ### ✍️ Random Dev Quote
