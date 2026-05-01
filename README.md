@@ -1,71 +1,106 @@
-## 👋 Hi, I’m Subashree                                                                         ![](https://komarev.com/ghpvc/?username=Subashree-selvaraj&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=450&lines=Hi%2C+I+am+Subashree!" />
+</p>
 
+<p align="center">
+Backend Developer | DevOps | Automation Testing | DSA (Java)
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+</p>
 
 Backend-focused developer passionate about building scalable, reliable systems and writing clean, maintainable code. Currently strengthening my foundations in **Data Structures, Algorithms, and Core Computer Science**, while building real-world backend projects using the **MERN stack**.
 
----
+## About Me
 
+Backend-focused developer building scalable, production-ready systems with a strong emphasis on performance, security, and system design.
 
-💫 About Me
-🔭 I’m currently working on  
-• MERN Stack backend projects  
-• REST APIs with Node.js, Express & MongoDB  
-• DSA problem solving (Java) for placements  
-• Academic + real-world mini projects  
-
-🧩 I’m looking to collaborate on   
-• MERN Stack projects  
-• Backend APIs & database design  
-• Open-source beginner-friendly projects  
-• Hackathons & college tech projects  
-
-🤝 I’m looking for help with  
-• Advanced DSA patterns  
-• System design basics  
-• Backend performance & security  
-• Deployment & cloud fundamentals  
-
-🚀 I’m currently learning  
-• Data Structures & Algorithms (Java)  
-• Node.js, Express.js, MongoDB  
-• Backend testing & API validation  
-• Core CS fundamentals for interviews  
-
-💬 Ask me about  
-• Java & DSA basics  
-• MERN backend development  
-• API testing (Postman)  
-• How I prepare for placements  
-
-⚡ Fun fact  
-• I love breaking complex problems into simple logic 😄  
-• Consistency > Motivation 🚀  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="16"/> Improved API latency by 62% (480ms → 180ms) using Redis caching  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Built systems handling 10,000+ monthly transactions  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Designed secure APIs with JWT authentication, PII masking, and rate limiting  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Deployed applications using Docker, CI/CD pipelines, and Nginx  
 
 ---
+
+## What I Work On
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Backend systems using Node.js, Express, and MongoDB  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="16"/> API design, optimization, caching (Redis), and pagination  
+- <img src="https://img.icons8.com/ios-filled/50/000000/websocket.png" width="16"/> Real-time systems using Socket.io  
+- <img src="https://img.icons8.com/color/48/selenium-test-automation.png" width="16"/> Automation testing using Selenium and TestNG  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16"/> Data Structures and Algorithms (Java)  
+
+---
+
+## Current Focus
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Backend architecture and distributed systems fundamentals  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Performance optimization and system reliability  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Writing clean, maintainable, production-level code  
+- <img src="https://img.icons8.com/fluency/48/goal.png" width="16"/> Preparing for software engineering roles in product-based companies
+  
+## Note
+
+I focus on building systems that are reliable, efficient, and designed for real-world usage.
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashree-s-013955281/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashree-s-013955281/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subashreevjc@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://subashree.vercel.app/)
 
 ---
 
 ## 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🚀 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### ⚙️ Backend & APIs
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-ff6f00?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge)
+
+---
+
+### 🗄️ Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Caching-red?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 🧪 Testing & Automation
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-Framework-orange?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### ⚡ DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AZURE-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ---
@@ -90,11 +125,7 @@ Backend-focused developer passionate about building scalable, reliable systems a
 ![LeetCode Stats](https://leetcard.jacoblin.cool/subashree_selvaraj?theme=dark&font=Nunito&ext=heatmap)
 
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=Subashree-selvaraj&icon=9&color=0)](https://visitcount.itsvg.in)
 
